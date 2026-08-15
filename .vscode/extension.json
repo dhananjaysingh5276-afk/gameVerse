@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "bmewburn.vscode-intelephense-client",
+        "felixfbecker.php-debug",
+        "xdebug.php-debug",
+        "bradlc.vscode-tailwindcss",
+        "dsznajder.es7-react-js-snippets",
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint",
+        "ritwickdey.liveserver",
+        "eamodio.gitlens",
+        "pkief.material-icon-theme"
+    ]
+}

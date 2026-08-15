@@ -1,0 +1,15 @@
+{
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "files.autoSave": "onFocusChange",
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "liveServer.settings.root": "/backend/",
+    "php.validate.executablePath": "C:/xampp/php/php.exe",
+    "php.suggest.basic": false,
+    "intelephense.files.maxSize": 5000000,
+    "workbench.iconTheme": "material-icon-theme"
+}
