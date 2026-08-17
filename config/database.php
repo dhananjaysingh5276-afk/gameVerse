@@ -15,4 +15,9 @@ if ($conn->connect_error) {
 
 // Set charset to UTF-8
 $conn->set_charset("utf8mb4");
+// Set timezone
+date_default_timezone_set('Asia/Kolkata');
+
+// Debug mode
+define('DEBUG_MODE', true);
 ?>
